@@ -6,4 +6,4 @@ atob("Tk9WSXtIRVlfMVNfVGgxU19AX0ZsYTk/fQ==")
 "NOVI{HEY_1S_Th1S_@_Fla9?}"
 
 ```
-<img src="0.png">
+<img src="images/0.png">
