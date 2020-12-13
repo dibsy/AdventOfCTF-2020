@@ -10,3 +10,4 @@ eyJndWVzdCI6ImZhbHNlIiwiYWRtaW4iOiJ0cnVlIn0
 
 NOVI{cookies_are_bad_for_auth}
 ```
+<img src="../images/2.png">
