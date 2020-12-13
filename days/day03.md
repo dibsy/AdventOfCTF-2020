@@ -4,3 +4,4 @@ https://03.adventofctf.com/index.php?username=1%20OR%201=1--%20&password=MSBPUiA
 
 NOVI{javascript_is_not_s@fe}
 ```
+<img src="../images/3.png">
