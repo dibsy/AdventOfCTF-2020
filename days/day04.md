@@ -42,3 +42,4 @@ https://04.adventofctf.com/index.php?token=eyJ1c2VyaWQiOjF9.1075
 
 NOVI{0bfusc@t3_all_U_w@n7}
 ```
+<img src="../images/4.png">
