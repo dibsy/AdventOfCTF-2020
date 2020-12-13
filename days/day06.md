@@ -12,3 +12,4 @@
 NOVI{7h1s_flag_w@s_chuncky_right}
 
 ```
+<img src="../images/6.png">
