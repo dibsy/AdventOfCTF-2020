@@ -2,4 +2,7 @@
 
 {{self|attr("\x5f\x5fdict\x5f\x5f")}}
 
+{{()|attr("\x5f\x5fclass\x5f\x5f")|attr("\x5f\x5fbase\x5f\x5f")|attr("\x5f\x5fsubclasses\x5f\x5f")()}}
+
+
 ```
